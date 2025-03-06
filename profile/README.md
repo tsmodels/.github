@@ -10,4 +10,4 @@ A set of packages for time series modeling and forecasting based on unified meth
 <img src="https://github.com/tsmodels/tsgarch/blob/main/man/figures/logo.png" align="left" height="139" alt="" />
 <img src="https://github.com/tsmodels/tsmarch/blob/main/man/figures/logo.png" align="left" height="139" alt="" />
 <img src="https://github.com/tsmodels/tstests/blob/main/man/figures/logo.png" align="left" height="139" alt="" />
-<img src="https://github.com/tsmodels/tsaux/blob/main/man/figures/logo.png" align="left" height="139" alt="" />
+<img src="https://github.com/tsmodels/tsaux/blob/master/man/figures/logo.png" align="left" height="139" alt="" />
